@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Rise Voca Flyers",
+  "short_name": "Rise Flyers",
+  "description": "Topic-based English word building with local learning history.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f6fc",
+  "theme_color": "#5546c7",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

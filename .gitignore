@@ -1,0 +1,14 @@
+# Keep private exports out of version control. Browser uploads still require review.
+*backup*.json
+*Backup*.json
+*history*.json
+*History*.json
+Flyers_Illustration_Review_*.json
+*.csv
+*.pdf
+skill.zip
+.env
+.env.*
+node_modules/
+.DS_Store
+Thumbs.db
