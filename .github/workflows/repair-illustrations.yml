@@ -1,50 +1,34 @@
-name: Verify and apply illustration repair
+name: Validate Flyers PWA
 on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ['.github/workflows/repair-illustrations.yml']
+  pull_request:
+    branches: [main]
 permissions:
-  contents: write
+  contents: read
 concurrency:
-  group: flyers-illustration-repair
-  cancel-in-progress: false
+  group: flyers-validation-${{ github.ref }}
+  cancel-in-progress: true
 jobs:
-  repair:
+  validate:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
         with:
-          fetch-depth: 1
-      - name: Install isolated test dependencies
+          persist-credentials: false
+      - name: Verify cached-file version and image policy
+        run: |
+          python scripts/build-offline.py --check
+          node --test tests/illustrations.test.cjs
+      - name: Install isolated browser-test dependencies
         run: |
           python -m venv "$RUNNER_TEMP/flyers-venv"
-          "$RUNNER_TEMP/flyers-venv/bin/pip" install playwright==1.55.0 Pillow==11.3.0
+          "$RUNNER_TEMP/flyers-venv/bin/pip" install playwright==1.55.0
           "$RUNNER_TEMP/flyers-venv/bin/python" -m playwright install --with-deps chromium
-      - name: Apply guarded migration and rebuild offline files
-        run: |
-          "$RUNNER_TEMP/flyers-venv/bin/python" scripts/apply-illustrations-v2.py
-          python scripts/build-offline.py
-          python scripts/build-offline.py --check
-      - name: Run data and image policy regression tests
-        run: |
-          set -o pipefail
-          node --test tests/illustrations.test.cjs | tee "$RUNNER_TEMP/flyers-unit.log"
-      - name: Verify native offline storage, image approval, touch and history
+      - name: Check real offline storage, approval, touch and history
         run: |
           "$RUNNER_TEMP/flyers-venv/bin/python" tests/browser_illustrations.py --report "$RUNNER_TEMP/flyers-browser.json"
-      - name: Commit only verified application files
-        run: |
-          set -euo pipefail
-          git diff --check
-          git fetch origin main
-          test "$(git rev-parse HEAD)" = "$(git rev-parse origin/main)"
-          mkdir -p docs
-          cp "$RUNNER_TEMP/flyers-browser.json" docs/ILLUSTRATION_FIX_VALIDATION.json
-          git add index.html BUILD_INFO.json sw.js README.md THIRD_PARTY.md GITHUB_PAGES_SETUP.md assets/illustrations assets/licenses icons docs/ILLUSTRATION_FIX_VALIDATION.json
-          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Fix inaccurate illustrations with verified local assets and parent review'
-          git push origin HEAD:main
-          echo '## Illustration repair committed' >> "$GITHUB_STEP_SUMMARY"
-          git rev-parse HEAD >> "$GITHUB_STEP_SUMMARY"
+          echo '## Native browser checks' >> "$GITHUB_STEP_SUMMARY"
           cat "$RUNNER_TEMP/flyers-browser.json" >> "$GITHUB_STEP_SUMMARY"
