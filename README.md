@@ -27,6 +27,14 @@ All 414 distinct local SVGs are downloaded, source-pinned, hash-checked, and bun
 
 These exports are not substitutes for a complete learning-history backup.
 
+## Voice settings on Safari / iPadOS
+
+Open **Library & source > Illustrations & audio > English voice**. The app now exposes a preferred English accent, the English voices currently reported by the device, speaking speed, **Refresh voices**, and **Test voice**. The in-session speed selector and the library speed selector stay synchronized.
+
+A selected voice is stored in local app preferences by voice URI plus name/language fallback. If iPadOS removes or renames that voice after an OS update, the saved choice is retained but the app falls back to a usable English voice for the selected accent instead of blocking learning. If the voice list is initially empty on Safari, use **Refresh voices** or **Test voice** after the page is fully open.
+
+Voice availability is controlled by the browser and operating system. A voice marked on-device is preferred for offline use when available, but PWA installation alone does not guarantee that every system voice can speak offline. Voice tests do not create sessions, attempts, listening events, or other learning-history evidence.
+
 ## Learning history and backups
 Sessions, By topic, and By word views preserve date/time, selected versus actually studied topics, attempts, first-correct time, hints, listening requests, transcript support, skipped/unseen outcomes, estimated active time, and elapsed time. Session filters include dates, studied topic, and status. Reports preserve original question snapshots. No automatic last-50-session deletion is used.
 
