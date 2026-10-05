@@ -1,0 +1,16 @@
+{
+  "baseline_commit": "9b858fb6821005af94c7b0185485256b4bcf4166",
+  "library_fingerprint": "e804ad553657fdfa6e6e",
+  "preserved": [
+    "all 954 library records",
+    "all 172 prior OpenMoji mappings including 170 approvals",
+    "source Speaking appendix",
+    "learning and first-correct core",
+    "history-store implementation and database name"
+  ],
+  "new_word_sense_candidates": 467,
+  "total_local_candidates": 469,
+  "offline_file_count": 430,
+  "offline_uncompressed_bytes": 4907380,
+  "git_filters_preserve_all_cached_file_bytes": true
+}

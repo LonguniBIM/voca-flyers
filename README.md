@@ -1,14 +1,57 @@
-# Rise Voca Flyers: illustration repair
+# Rise Voca Flyers
 
-Open Library & source > Review replacement illustrations. Preview each local picture, then Approve for lessons or Reject / stop using. Approval is stored for the exact asset hash on this device, not in learning history. No image loads from ARASAAC, even with the previous opt-in saved.
+An offline-capable, topic-based English word builder for phones, tablets, and computers. The source vocabulary, clues, original topic membership, stable IDs, first-correct scoring, and local history schema are preserved.
 
-OpenMoji remains first. Preferred sourcing order: OpenMoji, Google Material Symbols, Tabler, Phosphor. The two exact local exceptions are Streamline (toothpaste) and Pictogrammers MDI (cupboard). MDI is not Google Material Symbols. The SVGs are included in the offline app; remote OpenMoji pictures still require Save pictures for offline. Not all words have illustrations.
+## Learn and resume
+Choose topics and 5 / 10 / 15 / 20 / All, or a custom count. Listen, arrange letters, retry, use Hint or Skip. A new session avoids duplicate spellings. Save & pause and Resume keep the original session settings and progress. Pictures appear after the first correct answer, not as answer leaks.
 
-To receive this update, Save & pause, close ALL site/app windows, and reopen. Do NOT clear site data. Keep regular JSON history backups. Sessions, dates, topics, first-correct scoring, hints, skips, audio and resume remain unchanged. History and review preferences are device-local, with no cross-device sync.
+## Illustration expansion
+Open **Library & source > Review replacement illustrations**. Filter by Topic, Source, Review status, and word or Vietnamese meaning. The gallery uses 24-card pages. Select **Preview local picture**, then **Approve for lessons** or **Reject / stop using**. Image-loading failures disable approval. Review does not create sessions, attempts, or mastery.
 
-The missing PWA icons are restored. The two local SVGs and image licenses are cached with the app. Actual iOS/Android installation and speech still require device testing.
+The existing 170 user-approved OpenMoji mappings are unchanged. There are 469 attached candidates in total: the original two replacements and 467 additional word/sense mappings. These candidates are NOT automatically approved. The 263 remaining vocabulary meanings without a suitable candidate stay explicitly missing; 52 proper names are excluded from illustration coverage. See `docs/IMAGE_COVERAGE.md` and `data/image-coverage.json` for auditable counts.
 
-## Maintenance
-After editing cached files, run `python scripts/build-offline.py`; verify with `python scripts/build-offline.py --check` and `node --test tests/illustrations.test.cjs`. The apply-illustrations-v2 script is a one-time, guarded migration from the original preview, not a normal build command. Tests use isolated profiles only.
+OpenMoji remains primary. Explicit selected fallback images use Pictogrammers Material Design Icons, Mulberry Symbols by Steve Lee, and the original Streamline toothpaste illustration. These are separate libraries; Pictogrammers MDI is not Google Material Symbols. The two rejected ARASAAC references are never requested. New truck and Moon replacements require a fresh approval; their old rejected images cannot reappear.
 
-See THIRD_PARTY.md for credits. Never publish learner backups, private reviews, credentials or the original PDF.
+New approvals are scoped to the word ID and exact file hash. Previously saved approval keys for the original toothpaste and House cupboard candidates remain compatible. A House cupboard approval does not automatically approve the separate School cupboard record. Decisions and their timestamps are stored on this device, never published or treated as learning history.
+
+All 414 distinct local SVGs are downloaded, source-pinned, hash-checked, and bundled with the offline app. Meaning-level screening is separate from technical checks, and final suitability remains a parent decision. Previously approved remote OpenMoji pictures keep **Save pictures for offline** and **Check saved pictures**. Do not assume speech works offline merely because pictures do.
+
+## JSON library and exports
+`data/library.json` is the canonical content library: all 954 original records, including 902 vocabulary senses/forms and 52 proper names. `data/illustrations.json` is the image catalog. A deterministic build embeds identical copies in the HTML so runtime startup does not require a second fetch.
+
+**Export library JSON** preserves the original library-only export. The review panel adds:
+
+- **Export library + images (JSON)**: all content, source provenance, and image references; no private history or device approvals. Relative image files remain separate assets, not embedded binary data in the JSON.
+- **Export all image reviews (JSON)**: all candidate records and the actual decisions and timestamps on this device, regardless of filters or page.
+- **Export words still missing images (JSON)**: all unresolved vocabulary senses; proper names excluded.
+
+These exports are not substitutes for a complete learning-history backup.
+
+## Learning history and backups
+Sessions, By topic, and By word views preserve date/time, selected versus actually studied topics, attempts, first-correct time, hints, listening requests, transcript support, skipped/unseen outcomes, estimated active time, and elapsed time. Session filters include dates, studied topic, and status. Reports preserve original question snapshots. No automatic last-50-session deletion is used.
+
+Use **Back up all history (JSON)** and **Restore / merge backup** for progress. Full backups include unfinished sessions; identical data is ignored on import and conflicts are rejected rather than overwritten. Filtered CSV exports and single-session reports are different formats. History stays in this browser/app storage container and origin; there is no automatic cross-device sync. Private browsing, deletion, and storage eviction can remove it. A durable-storage request is not a backup.
+
+## Receive updates
+Use Save & pause, close all windows/tabs for the app, and reopen. Do not clear site data to update. Service-worker updates do not force activation in a running lesson or delete the history database. The offline status becomes ready only after all declared files are saved. Installation downloads run with bounded concurrency; a failed new cache is removed only after all workers settle.
+
+## Maintenance and tests
+
+```text
+python scripts/sync-catalog.py
+python scripts/build-coverage.py
+python scripts/build-offline.py
+python scripts/sync-catalog.py --check
+python scripts/build-coverage.py --check
+python scripts/build-offline.py --check
+node --test tests/illustrations.test.cjs
+python tests/browser_illustrations.py --report /temporary/path/browser-report.json
+```
+
+On Windows with installed Edge, add `--channel msedge` to the browser test. Tests use disposable profiles and never touch learner browser data. Physical iOS/Android installation and actual audible speech still require real-device checks.
+
+Image mappings are explicit in `scripts/image-expansion-map.tsv`. `scripts/expand-illustrations.py --cache /temporary/download-cache` downloads those pinned sources; inspect actual rendered files before accepting any addition, then run synchronization, coverage, offline build, and tests. The old `apply-illustrations-v2.py` script is a one-time historical migration, not a normal build command. GitHub Actions validates changes with read-only repository permissions.
+
+Preserve SVG bytes and hashes. `.gitattributes` normalizes source text to LF while preserving SVG, PNG, CSV, and license payloads. Keep unreviewed or unsuitable candidates out of lessons.
+
+See `THIRD_PARTY.md` and the image manifest for credits. Do not publish learner backups, private review exports, credentials, or the original source PDF. The image licenses do not establish redistribution rights for the supplied word list.

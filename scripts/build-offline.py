@@ -15,7 +15,7 @@ sw='''/* Generated offline shell. No forced activation or database deletion. */
 const VERSION=__VERSION__, PATH=new URL(self.registration.scope).pathname;
 const PREFIX='rise-voca-flyers-shell:'+PATH+':', CACHE=PREFIX+VERSION;
 const FILES=__FILES__.map(p=>new URL(p,self.registration.scope).href);
-self.addEventListener('install',event=>{event.waitUntil((async()=>{const c=await caches.open(CACHE);try{for(const u of FILES){const r=await fetch(new Request(u,{cache:'reload'}));if(!r.ok)throw Error('Missing file: '+u);await c.put(u,r);}}catch(e){await caches.delete(CACHE);throw e;}})());});
+self.addEventListener('install',event=>{event.waitUntil((async()=>{const c=await caches.open(CACHE);let next=0;async function worker(){while(next<FILES.length){const u=FILES[next++];const r=await fetch(new Request(u,{cache:'reload'}));if(!r.ok)throw Error('Missing file: '+u);await c.put(u,r);}}const results=await Promise.allSettled(Array.from({length:Math.min(6,FILES.length)},worker));const failed=results.find(r=>r.status==='rejected');if(failed){await caches.delete(CACHE);throw failed.reason;}})());});
 self.addEventListener('activate',event=>{event.waitUntil((async()=>{for(const k of await caches.keys())if(k.startsWith(PREFIX)&&k!==CACHE)await caches.delete(k);await self.clients.claim();})());});
 self.addEventListener('fetch',event=>{const u=new URL(event.request.url);if(event.request.method!=='GET'||u.origin!==self.location.origin)return;
 if(FILES.includes(u.href))event.respondWith((async()=>{const c=await caches.open(CACHE);return await c.match(u.href)||fetch(event.request);})());

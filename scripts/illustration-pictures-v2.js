@@ -1,7 +1,7 @@
 /* Curated pictures only. No runtime keyword search and no history writes. */
 (function(root){'use strict';
 const CACHE='rise-voca-flyers-approved-pictures-v1';
-const PRIORITY=['OpenMoji','Material Symbols','Tabler Icons','Phosphor Icons','Material Design Icons','Streamline'];
+const PRIORITY=['OpenMoji','Material Symbols','Tabler Icons','Phosphor Icons','Material Design Icons','Streamline','Mulberry Symbols'];
 const LOCAL=/^\.\/assets\/illustrations\/[a-z0-9-]+-[a-f0-9]{12}\.(svg|png|webp)$/;
 function isLocal(value){return typeof value==='string'&&LOCAL.test(value);}
 function validUrl(value){
@@ -9,7 +9,7 @@ function validUrl(value){
  try{const u=new URL(value);return u.protocol==='https:'&&!u.username&&!u.password&&!u.port&&!u.search&&!u.hash&&u.hostname==='raw.githubusercontent.com'&&/^\/hfg-gmuend\/openmoji\/15\.1\.0\/color\/svg\/[A-F0-9-]+\.svg$/.test(u.pathname);}catch(_){return false;}
 }
 function urlFor(value){return isLocal(value)?new URL(value,root.location?.href||'https://localhost.invalid/').href:value;}
-function reviewKey(e){return e?.asset_id&&/^[a-f0-9]{64}$/.test(e.sha256||'')?e.provider+':'+e.asset_id+':'+e.sha256:null;}
+function reviewKey(e){return e?.asset_id&&/^[a-f0-9]{64}$/.test(e.sha256||'')?e.provider+':'+e.asset_id+':'+e.sha256+(e.review_scope?':'+e.review_scope:''):null;}
 function decision(e,reviews){const key=reviewKey(e);return key&&reviews&&typeof reviews==='object'&&Object.hasOwn(reviews,key)?reviews[key]:null;}
 function candidates(registry,id){
  const raw=registry.candidatesByWordId?.[id],list=Array.isArray(raw)?raw:raw?[raw]:[];
@@ -19,8 +19,8 @@ function candidates(registry,id){
 function choose(registry,id,reviews={}){
  const main=registry.byWordId?.[id];
  // A rejected mapping cannot reappear because an old preference or cache exists.
- if(main){return main.provider!=='ARASAAC'&&main.review_status==='approved_by_user'&&validUrl(main.url)?main:null;}
- return candidates(registry,id).find(e=>decision(e,reviews)==='approved')||null;
+ if(main?.review_status==='approved_by_user'){return main.provider!=='ARASAAC'&&validUrl(main.url)?main:null;}
+ return candidates(registry,id).find(e=>e.url!==main?.url&&decision(e,reviews)==='approved')||null;
 }
 function label(e,reviews){
  if(!e)return 'No verified mapping';
@@ -28,7 +28,7 @@ function label(e,reviews){
  if(e.review_status==='approved_by_user')return 'User-approved';
  const d=decision(e,reviews);return d==='approved'?'Approved on this device':d==='rejected'?'Rejected on this device':'Needs manual review';
 }
-function info(registry,id,reviews){const e=choose(registry,id,reviews)||registry.byWordId?.[id]||candidates(registry,id)[0];return {source:e?.provider||'None',review:label(e,reviews)};}
+function info(registry,id,reviews){const e=choose(registry,id,reviews)||candidates(registry,id)[0]||registry.byWordId?.[id];return {source:e?.provider||'None',review:label(e,reviews)};}
 async function cached(entry){
  if(!root.caches||!validUrl(entry.url))return null;
  try{const r=isLocal(entry.url)?await caches.match(urlFor(entry.url)):await(await caches.open(CACHE)).match(entry.url);
@@ -63,10 +63,11 @@ async function saveOne(e){
   await decode(blob);await(await caches.open(CACHE)).put(urlFor(e.url),new Response(blob,{headers:{'content-type':type}}));
  }finally{clearTimeout(timer);}
 }
+/* EMBED_REVIEW_GALLERY */
 function controls(D,prefs,readOnly,onDecision){
  const $=id=>document.getElementById(id),status=$('pictureCacheStatus');let busy=false,reviewQueue=Promise.resolve();
  const chosen=()=>entries(D.illustrations,prefs().pictureReviews);
- async function report(){try{const c=await count(chosen());status.textContent=c.saved+' / '+c.total+' selected distinct picture files saved. The 2 local review pictures are also bundled with the offline app. Speech is separate.';}catch(e){status.textContent=e.message;}}
+ async function report(){try{const c=await count(chosen());status.textContent=c.saved+' / '+c.total+' selected distinct picture files saved. All attached local review pictures are bundled with the offline app. Speech is separate.';}catch(e){status.textContent=e.message;}}
  $('checkPictureCache').addEventListener('click',report);
  $('downloadPictures').addEventListener('click',async()=>{
   if(busy||readOnly)return;
@@ -79,28 +80,7 @@ function controls(D,prefs,readOnly,onDecision){
  });
  $('downloadPictures').disabled=readOnly;
  $('requestPersistent').addEventListener('click',async()=>{try{if(!navigator.storage?.persist)throw Error('Persistent-storage requests are not supported here.');const ok=await navigator.storage.persist();$('durableStatus').textContent=ok?'Persistent storage granted. This is not a backup; deleting website data still deletes history.':'Persistent storage was not granted. Keep regular JSON backups.';}catch(e){$('durableStatus').textContent=e.message;}});
- for(const id of Object.keys(D.illustrations.candidatesByWordId||{}))for(const e of candidates(D.illustrations,id)){
-  const card=document.createElement('article'),title=document.createElement('h3'),meaning=document.createElement('p'),img=new Image(),load=document.createElement('button'),approve=document.createElement('button'),reject=document.createElement('button'),result=document.createElement('p'),badge=document.createElement('p'),links=document.createElement('p'),sourceLink=document.createElement('a'),licenseLink=document.createElement('a');
-  let loaded=false,loading=false,pending=false,objectUrl=null;
-  card.dataset.word=id;title.textContent=e.word;meaning.textContent=e.meaning_vi;img.alt=e.alt||e.word;img.hidden=true;img.referrerPolicy='no-referrer';
-  load.textContent='Preview local picture';approve.textContent='Approve for lessons';reject.textContent='Reject / stop using';
-  result.setAttribute('role','status');badge.className='picture-source';
-  function refresh(){badge.textContent='Source: '+e.provider+' | '+label(e,prefs().pictureReviews);approve.disabled=readOnly||!loaded||pending;reject.disabled=readOnly||pending;load.disabled=loading||pending;}
-  sourceLink.href=e.source_url;sourceLink.target='_blank';sourceLink.rel='noopener noreferrer';sourceLink.textContent=e.creator+' - original source';
-  licenseLink.href=e.license_url;licenseLink.target='_blank';licenseLink.rel='noopener noreferrer';licenseLink.textContent=e.license;
-  links.append(sourceLink,document.createTextNode(' | '),licenseLink);
-  result.textContent='Technical image check passed. Please preview and decide whether it teaches the correct meaning. Approval is local to this device, not a quiz result.';
-  async function decide(value){if(readOnly||pending||(value==='approved'&&!loaded))return;pending=true;refresh();try{const task=reviewQueue.then(()=>onDecision(reviewKey(e),value));reviewQueue=task.catch(()=>{});await task;result.textContent=value==='approved'?'Approved on this device. Used after a correct answer; no learning result was created.':'Rejected on this device. This image will not appear in lessons.';}catch(err){result.textContent='Could not save review: '+err.message;}finally{pending=false;refresh();}}
-  approve.addEventListener('click',()=>decide('approved'));reject.addEventListener('click',()=>decide('rejected'));
-  load.addEventListener('click',async()=>{
-   if(loading||pending)return;loading=true;loaded=false;img.hidden=true;refresh();result.textContent='Loading the bundled picture...';
-   if(objectUrl){URL.revokeObjectURL(objectUrl);objectUrl=null;}
-   img.onload=()=>{loading=false;loaded=img.naturalWidth>0;img.hidden=!loaded;result.textContent=loaded?(e.visual_description+' No text is overlaid in this picture. Approve only if the meaning is clear.'):'Image unavailable. Approval is disabled.';refresh();};
-   img.onerror=()=>{loading=false;loaded=false;img.hidden=true;result.textContent='Image unavailable. Approval is disabled; no replacement is selected automatically.';refresh();};
-   try{const src=await source(e,false);if(!src)throw Error('No valid local image');if(src.startsWith('blob:'))objectUrl=src;img.src=src;}catch(err){loading=false;result.textContent='Image unavailable: '+err.message;refresh();}
-  });
-  refresh();const buttons=document.createElement('div');buttons.className='review-actions';buttons.append(load,approve,reject);card.append(title,meaning,badge,buttons,img,result,links);$('candidatePreviews').append(card);
- }
+ buildGallery(D,prefs,readOnly,onDecision);
 }
-root.FlyersPictures={choose,validUrl,isLocal,urlFor,reviewKey,decision,candidates,label,info,entries,cached,source,count,saveOne,controls,cacheName:CACHE,providerPriority:PRIORITY};
+root.FlyersPictures={candidateRows,filterRows,catalogPayload,reviewPayload,missingRows,choose,validUrl,isLocal,urlFor,reviewKey,decision,candidates,label,info,entries,cached,source,count,saveOne,controls,cacheName:CACHE,providerPriority:PRIORITY};
 })(typeof globalThis!=='undefined'?globalThis:this);

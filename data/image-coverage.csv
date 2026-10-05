@@ -1,0 +1,955 @@
+﻿Word ID,Word,Meaning,Topics,Status,Provider,Reason
+p01-t1-r02-c1-w1,one,số 1,numbers,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p01-t1-r02-c2-w1,the first,"thứ nhất, đầu tiên",numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r02-c3-w1,eleven,số 11,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r02-c4-w1,the eleventh,thứ mười một,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r03-c1-w1,two,số 2,numbers,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p01-t1-r03-c2-w1,the second,thứ hai,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r03-c3-w1,twelve,số 12,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r03-c4-w1,the twelfth,thứ mười hai,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r04-c1-w1,three,số 3,numbers,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p01-t1-r04-c2-w1,the third,thứ ba,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r04-c3-w1,thirteen,số 13,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r04-c4-w1,the thirteenth,thứ mười ba,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r05-c1-w1,four,số 4,numbers,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p01-t1-r05-c2-w1,the fourth,thứ tư,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r05-c3-w1,fourteen,số 14,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r05-c4-w1,the fourteenth,thứ mười bốn,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r06-c1-w1,five,số 5,numbers,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p01-t1-r06-c2-w1,the fifth,thứ năm,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r06-c3-w1,fifteen,số 15,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r06-c4-w1,the fifteenth,thứ mười lăm,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r07-c1-w1,six,số 6,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r07-c2-w1,the sixth,thứ sáu,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r07-c3-w1,twenty,số 20,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r07-c4-w1,the twentieth,thứ hai mươi,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r08-c1-w1,seven,số 7,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r08-c2-w1,the seventh,thứ bảy,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r08-c3-w1,twenty one,số 21,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r08-c4-w1,the twenty first,thứ hai mươi mốt,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r09-c1-w1,eight,số 8,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r09-c2-w1,the eighth,thứ tám,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r09-c3-w1,twenty two,số 22,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r09-c4-w1,the twenty second,thứ hai mươi hai,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r10-c1-w1,nine,số 9,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r10-c2-w1,the ninth,thứ chín,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r10-c3-w1,twenty three,số 23,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r10-c4-w1,the twenty third,thứ hai mươi ba,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r11-c1-w1,ten,số 10,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r11-c2-w1,the tenth,thứ mười,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r11-c3-w1,pair,cặp,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r11-c4-w1,several,nhiều,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t1-r12-c1-w1,hundred,trăm,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r12-c2-w1,thousand,ngàn,numbers,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t1-r12-c3-w1,million,triệu,numbers,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t2-r02-c1-w1,red,màu đỏ,colors,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p01-t2-r02-c2-w1,pink,màu hồng,colors,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t2-r02-c3-w1,black,màu đen,colors,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p01-t2-r03-c1-w1,blue,"màu xanh dương, xanh da trời",colors,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p01-t2-r03-c2-w1,orange,màu cam,colors,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p01-t2-r03-c3-w1,white,màu trắng,colors,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p01-t2-r04-c1-w1,green,màu xanh lá,colors,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p01-t2-r04-c2-w1,brown,màu nâu,colors,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p01-t2-r04-c3-w1,yellow,màu vàng,colors,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p01-t2-r05-c1-w1,purple,màu tím,colors,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p01-t2-r05-c2-w1,grey,màu xám,colors,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t2-r05-c2-w2,gray,màu xám,colors,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p01-t2-r05-c3-w1,silver,màu bạc,colors,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t2-r06-c1-w1,gold,màu vàng đồng,colors,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t2-r06-c2-w1,spot,chấm tròn,colors,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t2-r06-c3-w1,spotted,có họa tiết chấm tròn,colors,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t2-r07-c1-w1,stripe,"sọc, vằn",colors,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p01-t2-r07-c2-w1,striped,"có họa tiết sọc, vằn",colors,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p02-t1-r02-c1-w1,bear,con gấu,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r02-c2-w1,bee,con ong,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r02-c3-w1,bird,con chim,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r03-c1-w1,cat,con mèo,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r03-c2-w1,chicken,con gà,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r03-c3-w1,cow,con bò sữa,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r04-c1-w1,crocodile,con cá sấu,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r04-c1-w2,alligator,con cá sấu,animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r04-c2-w1,dog,con chó,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r04-c3-w1,donkey,con lừa,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r05-c1-w1,duck,con vịt,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r05-c2-w1,elephant,con voi,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r05-c3-w1,fish,con cá,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r06-c1-w1,frog,con ếch,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r06-c2-w1,giraffe,con hươu cao cổ,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r06-c3-w1,goat,con dê,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r07-c1-w1,hippo,con hà mã,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r07-c2-w1,horse,con ngựa,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r07-c3-w1,jellyfish,con sứa,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r08-c1-w1,lizard,con thằn lằn,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r08-c2-w1,monkey,con khỉ,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r08-c3-w1,mouse,một con chuột,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r08-c3-w2,mice,nhiều con chuột,animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r09-c1-w1,pet,thú cưng (vật nuôi trong nhà),animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r09-c2-w1,polar bear,gấu Bắc Cực,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r09-c3-w1,sheep,con cừu,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r10-c1-w1,snake,con rắn,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r10-c2-w1,spider,con nhện,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r10-c3-w1,tail,cái đuôi,animals; body,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r11-c1-w1,tiger,con cọp,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r11-c2-w1,zebra,ngựa vằn,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r11-c3-w1,zoo,sở thú,animals; places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r12-c1-w1,bat,con dơi,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r12-c2-w1,cage,cái chuồng,animals,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p02-t1-r12-c3-w1,dolphin,cá heo,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r13-c1-w1,fly,con ruồi,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r13-c2-w1,kangaroo,chuột túi,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r13-c3-w1,kitten,mèo con,animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r14-c1-w1,lion,sư tử,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r14-c2-w1,panda,gấu trúc,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r14-c3-w1,parrot,con vẹt,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r15-c1-w1,penguin,chim cánh cụt,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r15-c2-w1,puppy,chó con,animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r15-c3-w1,rabbit,con thỏ,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r16-c1-w1,shark,cá mập,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r16-c2-w1,snail,ốc sên,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r16-c3-w1,whale,cá voi,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r17-c1-w1,beetle,"con bọ rùa, bọ cánh cứng",animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r17-c2-w1,butterfly,con bướm,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r17-c3-w1,camel,con lạc đà,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r18-c1-w1,creature,sinh vật,animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r18-c2-w1,dinosaur,khủng long,animals,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p02-t1-r18-c3-w1,eagle,đại bàng,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r19-c1-w1,extinct,tuyệt chủng,animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r19-c2-w1,fur,lông,animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r19-c3-w1,insect,côn trùng,animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p02-t1-r20-c1-w1,nest,cái tổ,animals,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p02-t1-r20-c2-w1,octopus,bạch tuộc,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r20-c3-w1,swan,thiên nga,animals,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p02-t1-r21-c1-w1,tortoise,rùa cạn,animals,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p02-t1-r21-c2-w1,wild,hoang dã,animals,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r02-c1-w1,apartment,căn hộ chung cư,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r02-c1-w2,flat,căn hộ chung cư,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r02-c2-w1,armchair,ghế bành,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r02-c3-w1,bath,bồn tắm,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r03-c1-w1,bathroom,phòng tắm,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r03-c2-w1,bed,cái giường,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r03-c3-w1,bedroom,phòng ngủ,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r04-c1-w1,bookcase,kệ sách,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p03-t1-r04-c2-w1,box,cái hộp,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r04-c3-w1,camera,máy chụp hình,house; sport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r05-c1-w1,chair,cái ghế,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r05-c2-w1,clock,đồng hồ treo tường,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r05-c3-w1,computer,máy tính,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r06-c1-w1,cupboard,tủ đựng đồ,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r06-c2-w1,desk,bàn làm việc,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r06-c3-w1,dining room,phòng ăn,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r07-c1-w1,door,cái cửa,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r07-c2-w1,flower,bông hoa,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r07-c3-w1,garden,khu vườn,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r08-c1-w1,hall,hành lang,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r08-c2-w1,home,nhà,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r08-c2-w2,house,nhà,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r08-c3-w1,kitchen,nhà bếp,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r09-c1-w1,lamp,cái đèn,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r09-c2-w1,living room,phòng khách,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r09-c3-w1,mat,tấm thảm,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r09-c3-w2,rug,tấm thảm,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r10-c1-w1,mirror,cái gương,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r10-c2-w1,phone,điện thoại,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r10-c2-w2,telephone,điện thoại,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r10-c3-w1,picture,tấm hình,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r10-c3-w2,photo,tấm hình,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r11-c1-w1,radio,cái ra-di-o,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r11-c2-w1,room,căn phòng,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r11-c3-w1,sleep,ngủ,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r12-c1-w1,sofa,ghế xô-pha,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r12-c2-w1,table,cái bàn,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r12-c3-w1,television,ti vi,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r12-c3-w2,TV,ti vi,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r13-c1-w1,tree,cây cối,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r13-c2-w1,wall,bức tường,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r13-c3-w1,watch,đồng hồ đeo tay,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r14-c1-w1,window,cửa sổ,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r14-c2-w1,address,địa chỉ nhà,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r14-c3-w1,balcony,ban công,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r15-c1-w1,basement,tầng hầm,house,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p03-t1-r15-c2-w1,blanket,cái mền,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p03-t1-r15-c3-w1,downstairs,dưới lầu,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r15-c3-w2,upstairs,trên lầu,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r16-c1-w1,dream,giấc mơ,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p03-t1-r16-c2-w1,elevator,thang máy,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r16-c2-w2,lift,thang máy,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r16-c3-w1,floor,sàn nhà,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p03-t1-r17-c1-w1,internet,mạng internet,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r17-c2-w1,message,tin nhắn,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r17-c3-w1,roof,mái nhà,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r18-c1-w1,seat,chỗ ngồi,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r18-c2-w1,shower,vòi sen,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r18-c3-w1,stair,"bậc thang, cầu thang",house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r18-c3-w2,stairs,"bậc thang, cầu thang",house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r19-c1-w1,toothbrush,bàn chải đánh răng,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p03-t1-r19-c2-w1,toothpaste,kem đánh răng,house,needs_manual_review,Streamline,Preview actual picture before approval.
+p03-t1-r19-c3-w1,towel,khăn tắm,house; sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p03-t1-r20-c1-w1,wash,"tắm, rửa",house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p03-t1-r20-c2-w1,paper,giấy,house; school,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r20-c3-w1,brush,lược,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p03-t1-r20-c3-w2,comb,lược,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p03-t1-r21-c1-w1,cooker,bếp,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p03-t1-r21-c2-w1,cushion,đệm ngồi ghế sô-pha,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p03-t1-r21-c3-w1,diary,nhật ký,house; sport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t1-r01-c1-w1,entrance,lối vào,house; places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p04-t1-r01-c2-w1,envelope,bao thư,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t1-r01-c3-w1,fridge,tủ lạnh,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t1-r01-c3-w2,refrigerator,tủ lạnh,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t1-r02-c1-w1,gate,cái cổng,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t1-r02-c2-w1,key,chìa khoá,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t1-r02-c3-w1,letter,lá thư,house,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t1-r03-c1-w1,oven,lò nướng,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t1-r03-c2-w1,screen,màn hình,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t1-r03-c3-w1,shampoo,dầu gội đầu,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t1-r04-c1-w1,shelf,cái kệ,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t1-r04-c2-w1,soap,xà bông,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t1-r04-c3-w1,stamp,con tem,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t1-r05-c1-w1,step,bậc thang,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t1-r05-c1-w2,steps,bậc thang,house,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t1-r05-c2-w1,swing,xích đu,house,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t1-r05-c3-w1,suitcase,va li,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t1-r06-c1-w1,torch,đèn pin,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t1-r06-c1-w2,flashlight,đèn pin,house,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t2-r02-c1-w1,arm,cánh tay,body,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t2-r02-c2-w1,body,cơ thể,body,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t2-r02-c3-w1,ear,lỗ tai,body,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t2-r03-c1-w1,eye,mắt,body,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t2-r03-c2-w1,face,khuôn mặt,body,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t2-r03-c3-w1,foot,một bàn chân,body,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t2-r03-c3-w2,feet,nhiều bàn chân,body,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t2-r04-c1-w1,hair,tóc,body,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p04-t2-r04-c2-w1,hand,bàn tay,body,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t2-r04-c3-w1,head,đầu,body,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t2-r05-c1-w1,leg,chân,body,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t2-r05-c2-w1,mouth,miệng,body,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t2-r05-c3-w1,nose,mũi,body,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t2-r06-c1-w1,smile,mỉm cười,body,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t2-r06-c2-w1,back,lưng,body,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t2-r06-c3-w1,beard,râu,body,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t2-r07-c1-w1,blond,tóc vàng,body,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t2-r07-c1-w2,blonde,tóc vàng,body,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t2-r07-c2-w1,curly,(tóc) xoăn,body,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t2-r07-c2-w2,straight,(tóc) thẳng,body,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p04-t2-r07-c3-w1,fair,(da) trắng,body,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p04-t2-r08-c1-w1,fat,mập,body,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p04-t2-r08-c1-w2,thin,ốm,body,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p04-t2-r08-c2-w1,moustache,"ria, râu mép",body,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p04-t2-r08-c3-w1,neck,cổ,body,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t2-r09-c1-w1,shoulder,vai,body,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t2-r09-c2-w1,stomach,"bụng, bao tử",body,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t2-r09-c3-w1,tooth,một cái răng,body,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p04-t2-r09-c3-w2,teeth,nhiều cái răng,body,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t2-r10-c2-w1,wing,cánh,body,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p04-t2-r10-c3-w1,elbow,khuỷu tay,body,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t2-r11-c1-w1,finger,ngón tay,body,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t2-r11-c2-w1,knee,đầu gối,body,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p04-t2-r11-c3-w1,toe,ngón chân,body,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p05-t1-r01-c1-w1,bag,cái cặp,clothes,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t1-r01-c2-w1,baseball cap,mũ lưỡi trai,clothes,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t1-r01-c3-w1,boots,giày bốt,clothes,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t1-r02-c1-w1,dress,áo đầm,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r02-c2-w1,glasses,mắt kính,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r02-c3-w1,handbag,túi xách tay,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r03-c1-w1,hat,"mũ, nón",clothes,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t1-r03-c2-w1,jacket,áo khoác,clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r03-c3-w1,jeans,quần jeans,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r04-c1-w1,shirt,áo sơ mi,clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r04-c2-w1,shoe,giày,clothes,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t1-r04-c3-w1,shorts,quần sooc,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r05-c1-w1,skirt,váy,clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r05-c2-w1,sock,vớ,clothes,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t1-r05-c3-w1,trousers,quần dài,clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r06-c1-w1,T-shirt,áo thun,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r06-c2-w1,wear,"mặc, mang",clothes,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p05-t1-r06-c3-w1,coat,áo khoác dài,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r07-c1-w1,helmet,mũ bảo hiểm,clothes,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t1-r07-c2-w1,scarf,khăn choàng,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r07-c3-w1,sweater,áo khoác len,clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r08-c1-w1,swimsuit,đồ bơi,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r08-c2-w1,belt,dây nịt,clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r08-c3-w1,bracelet,vòng tay,clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r09-c1-w1,costume,phục trang,clothes,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p05-t1-r09-c2-w1,crown,vương miện,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r09-c3-w1,glove,găng tay,clothes,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t1-r10-c1-w1,necklace,dây chuyền,clothes,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p05-t1-r10-c2-w1,pajamas,đồ ngủ,clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r10-c2-w2,pyjamas,đồ ngủ,clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r10-c3-w1,pocket,"túi (quần, áo)",clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t1-r11-c1-w1,ring,nhẫn,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r11-c2-w1,sunglasses,kính râm,clothes,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p05-t1-r11-c3-w1,trainers,giày thể thao,clothes,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t1-r12-c1-w1,uniform,đồng phục,clothes,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p05-t1-r12-c2-w1,tights,"quần bó, vớ da",clothes,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r02-c1-w1,baby,em bé,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r02-c2-w1,boy,bé trai,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r02-c2-w2,girl,bé gái,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r02-c3-w1,brother,anh em trai,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r03-c1-w1,kid,"một bạn nhỏ/ trẻ con, trẻ em",people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r03-c1-w2,child,"một bạn nhỏ/ trẻ con, trẻ em",people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r03-c1-w3,children,"một bạn nhỏ/ trẻ con, trẻ em",people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p05-t2-r03-c2-w1,classmate,bạn học,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p05-t2-r03-c3-w1,cousin,anh chị em họ,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p05-t2-r04-c1-w1,family,gia đình,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r04-c2-w1,father,"ba, bố",people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r04-c2-w2,dad,"ba, bố",people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r04-c2-w3,daddy,"ba, bố",people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r04-c3-w1,friend,bạn bè,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p05-t2-r05-c1-w1,teacher,giáo viên,people; school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r05-c2-w1,grandfather,ông,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r05-c2-w2,grandpa,ông,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r05-c3-w1,grandmother,bà,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r05-c3-w2,grandma,bà,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r06-c1-w1,live,sống,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p05-t2-r06-c2-w1,man,một người đàn ông,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r06-c2-w2,men,nhiều người đàn ông,people,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p05-t2-r06-c3-w1,mother,"mẹ, má",people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r06-c3-w2,mum,"mẹ, má",people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r06-c3-w3,mummy,"mẹ, má",people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r07-c1-w1,old,già,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r07-c1-w2,young,trẻ,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r07-c2-w1,person,một người,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r07-c2-w2,people,nhiều người,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r07-c3-w1,sister,chị em gái,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r08-c1-w1,woman,một người phụ nữ,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r08-c1-w2,women,nhiều người phụ nữ,people,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p05-t2-r08-c2-w1,cook,đầu bếp,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r08-c3-w1,dentist,nha sĩ,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r09-c1-w1,clown,chú hề,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p05-t2-r09-c2-w1,driver,tài xế,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p05-t2-r09-c3-w1,farmer,nông dân,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r01-c1-w1,doctor,bác sĩ,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r01-c2-w1,nurse,y tá,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r01-c3-w1,pirate,cướp biển,people,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p06-t1-r02-c1-w1,film star,ngôi sao điện ảnh,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r02-c1-w2,movie star,ngôi sao điện ảnh,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r02-c2-w1,aunt,"cô, dì",people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p06-t1-r02-c3-w1,daughter,con gái (bố mẹ gọi),people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p06-t1-r03-c1-w1,pop star,ngôi sao ca nhạc,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r03-c2-w1,grandparent,ông/ bà,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r03-c3-w1,grandson,cháu trai (ông bà gọi),people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r04-c1-w1,granddaughter,cháu gái (ông bà gọi),people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r04-c2-w1,parent,ba/ mẹ,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r04-c3-w1,son,con trai (cha mẹ gọi),people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p06-t1-r05-c1-w1,grown-up,người trưởng thành,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r05-c2-w1,husband,chồng,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p06-t1-r05-c2-w2,wife,vợ,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p06-t1-r05-c3-w1,married,kết hôn,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p06-t1-r06-c1-w1,uncle,"chú, cậu",people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p06-t1-r06-c2-w1,secretary,thư ký,people,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p06-t1-r06-c3-w1,journalist,phóng viên,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r07-c1-w1,surname,họ,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r07-c1-w2,family name,họ,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r07-c2-w1,businessman,thương nhân (nam),people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r07-c3-w1,businesswoman,thương nhân (nữ),people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r08-c1-w1,waiter,nam phục vụ,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r08-c1-w2,waitress,nữ phục vụ,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r08-c2-w1,mechanic,thợ máy,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r08-c3-w1,actor,diễn viên nam,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r08-c3-w2,actress,diễn viên nữ,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r09-c1-w1,astronaut,phi hành gia,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r09-c2-w1,designer,nhà thiết kế,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r09-c3-w1,engineer,kỹ sư,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r10-c1-w1,artist,"họa sĩ, nghệ sĩ",people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r10-c2-w1,job,nghề nghiệp,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r10-c3-w1,manager,người quản lý,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r11-c1-w1,fire fighter,nhân viên cứu hỏa,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r11-c2-w1,news,tin tức,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r11-c3-w1,newspaper,báo,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r12-c1-w1,meeting,cuộc họp,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r12-c2-w1,photographer,thợ chụp hình,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r12-c3-w1,pilot,phi công,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r13-c1-w1,office,văn phòng,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r13-c2-w1,queen,nữ hoàng,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r13-c2-w2,king,vua,people,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t1-r13-c3-w1,singer,ca sĩ,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t1-r14-c1-w1,police officer,cảnh sát,people,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p06-t2-r02-c1-w1,apple,quả táo,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p06-t2-r02-c2-w1,banana,quả chuối,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p06-t2-r02-c3-w1,bean,đậu dài,food,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p06-t2-r03-c1-w1,bread,bánh mì,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p06-t2-r03-c2-w1,breakfast,bữa ăn sáng,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p06-t2-r03-c3-w1,burger,bánh mì tròn kẹp thịt,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r01-c1-w1,cake,bánh ngọt,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r01-c2-w1,candy,kẹo,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r01-c2-w2,sweet,kẹo,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r01-c3-w1,carrot,củ cà rốt,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r02-c1-w1,chicken,thịt gà,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r02-c2-w1,chip,khoai tây chiên lát dài,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r02-c2-w2,fry,khoai tây chiên lát dài,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r02-c3-w1,chocolate,sô-cô-la,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r03-c1-w1,coconut,quả dừa,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r03-c2-w1,dinner,bữa ăn tối,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r03-c3-w1,drink,uống,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r04-c1-w1,eat,ăn,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r04-c2-w1,egg,trứng,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r04-c3-w1,fish,cá,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r05-c1-w1,food,thức ăn,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r05-c2-w1,fruit,trái cây,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r05-c3-w1,grape,quả nho,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r06-c1-w1,ice cream,kem,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r06-c2-w1,juice,nước trái cây,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r06-c3-w1,kiwi,trái kiwi,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r07-c1-w1,lemon,quả chanh,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r07-c1-w2,lime,quả chanh,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r07-c2-w1,lemonade,nước chanh,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r07-c3-w1,lunch,bữa ăn trưa,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r08-c1-w1,mango,quả xoài,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r08-c2-w1,meat,thịt,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r08-c3-w1,meatball,thịt viên,food,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p07-t1-r09-c1-w1,milk,sữa,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r09-c2-w1,onion,củ hành,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r09-c3-w1,orange,quả cam,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r10-c1-w1,pea,đậu tròn,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r10-c2-w1,pear,quả lê,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r10-c3-w1,pie,bánh làm từ các loại trái cây,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r11-c1-w1,pineapple,"quả thơm, quả dứa",food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r11-c2-w1,potato,khoai tây,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r11-c3-w1,rice,cơm,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r12-c1-w1,sausage,xúc xích,food,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p07-t1-r12-c2-w1,tomato,quả cà chua,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r12-c3-w1,water,nước,food,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p07-t1-r13-c1-w1,watermelon,quả dưa hấu,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r13-c2-w1,bottle,"chai, lọ",food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r13-c3-w1,bowl,"tô, chén",food,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p07-t1-r14-c1-w1,cheese,phô mai,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r14-c2-w1,coffee,cà phê,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r14-c3-w1,cup,cái tách,food,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p07-t1-r15-c1-w1,glass,cái ly,food,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p07-t1-r15-c2-w1,hungry,đói,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r15-c3-w1,milkshake,sữa lắc,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r16-c1-w1,noodles,bún,food,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p07-t1-r16-c2-w1,pancake,bánh kếp,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r16-c3-w1,pasta,mì,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r17-c1-w1,picnic,bữa ăn ngoài trời,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r17-c2-w1,plate,cái dĩa,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r17-c3-w1,salad,rau trộn,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r18-c1-w1,sandwich,bánh mì kẹp,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r18-c2-w1,sauce,nước xốt,food,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p07-t1-r18-c3-w1,soup,xúp,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r19-c1-w1,tea,trà,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p07-t1-r19-c2-w1,thirsty,khát,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r19-c3-w1,vegetable,rau củ,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r20-c1-w1,biscuit,bánh quy,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r20-c1-w2,cookie,bánh quy,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r20-c2-w1,butter,bơ,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r20-c3-w1,cereal,ngũ cốc,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r21-c1-w1,chopsticks,đôi đũa,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r21-c2-w1,flour,bột,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r21-c3-w1,fork,cái nĩa,food,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p07-t1-r22-c1-w1,honey,mật ong,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p07-t1-r22-c2-w1,jam,mứt trái cây,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p07-t1-r22-c3-w1,knife,con dao,food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t1-r01-c1-w1,meal,bữa ăn,food,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t1-r01-c2-w1,olive,quả ô-liu,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p08-t1-r01-c3-w1,pepper,"ớt chuông, tiêu",food,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t1-r02-c1-w1,pizza,bánh pizza,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p08-t1-r02-c2-w1,salt,muối,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p08-t1-r02-c3-w1,piece,"mẩu nhỏ, miếng nhỏ",food,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t1-r03-c1-w1,smell,"ngửi, mùi",food,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t1-r03-c1-w2,taste,"nếm, vị",food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t1-r03-c2-w1,snack,bữa ăn nhẹ,food,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t1-r03-c3-w1,spoon,cái muỗng,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p08-t1-r04-c1-w1,strawberry,dâu tây,food,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p08-t1-r04-c2-w1,sugar,đường,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t1-r04-c3-w1,yoghurt,sữa chua,food,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t2-r02-c1-w1,cold,cảm lạnh,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t2-r02-c2-w1,cough,ho,health,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t2-r02-c3-w1,cry,khóc,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t2-r03-c1-w1,earache,đau tai,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t2-r03-c2-w1,fall,té,health,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t2-r03-c3-w1,fine,"khỏe, bình thường",health,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t2-r04-c1-w1,headache,đau đầu,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t2-r04-c2-w1,ill,bệnh,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t2-r04-c2-w2,sick,bệnh,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t2-r04-c3-w1,stomachache,đau bụng,health,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t2-r05-c1-w1,temperature,nhiệt độ,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t2-r05-c2-w1,tired,mệt,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t2-r05-c3-w1,toothache,đau răng,health,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t2-r06-c1-w1,bandage,băng gạc (để băng vết thương),health,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p08-t2-r06-c2-w1,chemist,tiệm thuốc tây,health,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t2-r06-c2-w2,chemist's,tiệm thuốc tây,health,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t2-r06-c3-w1,cut,"vết cắt, vết mổ",health,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t2-r07-c1-w1,medicine,thuốc,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t2-r07-c2-w1,X-ray,tia X quang,health,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t3-r02-c1-w1,behind,phía sau,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t3-r02-c2-w1,between,ở giữa,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t3-r02-c3-w1,bookshop,nhà sách,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t3-r03-c1-w1,end,"cuối cùng, sau cùng",places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t3-r03-c2-w1,here,ở đây,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t3-r03-c3-w1,in,ở trong,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t3-r04-c1-w1,in front of,phía trước,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t3-r04-c2-w1,on,ở trên,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t3-r04-c3-w1,park,công viên,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t3-r05-c1-w1,playground,sân chơi,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t3-r05-c2-w1,shop,"cửa hàng, cửa tiệm, cửa hiệu",places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t3-r05-c2-w2,store,"cửa hàng, cửa tiệm, cửa hiệu",places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t3-r05-c3-w1,street,con đường,places,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p08-t3-r05-c3-w2,road,con đường,places,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p08-t3-r06-c1-w1,there,ở kia,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t3-r06-c2-w1,under,ở dưới,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t3-r07-c1-w1,above,ở trên cao,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t3-r07-c2-w1,below,ở phía dưới,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t3-r07-c3-w1,building,tòa nhà,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t3-r08-c1-w1,bus station,bến xe buýt,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t3-r08-c1-w2,bus stop,trạm xe buýt,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t3-r08-c2-w1,cafe,tiệm cà phê,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p08-t3-r08-c3-w1,car park,bãi đậu xe,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t3-r09-c1-w1,centre,trung tâm,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t3-r09-c1-w2,center,trung tâm,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p08-t3-r09-c2-w1,cinema,rạp chiếu phim,places; sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p08-t3-r09-c3-w1,circle,hàng ghế xếp tròn (ở tầng trên của rạp hát),places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r01-c1-w1,circus,rạp xiếc,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r01-c2-w1,city,thành phố,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r01-c2-w2,town,thành phố,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r01-c3-w1,farm,nông trại,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r02-c1-w1,funfair,hội chợ,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r02-c2-w1,hospital,bệnh viện,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r02-c3-w1,library,thư viện,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r03-c1-w1,map,bản đồ,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r03-c2-w1,market,chợ,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r03-c3-w1,near,gần # xa,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t1-r03-c3-w2,close,gần # xa,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t1-r03-c3-w3,far,gần # xa,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r04-c1-w1,opposite,đối diện,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t1-r04-c2-w1,place,nơi chốn,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r04-c3-w1,shopping centre,trung tâm mua sắm,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r04-c3-w2,mall,trung tâm mua sắm,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r05-c1-w1,sport centre,trung tâm thể thao,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r05-c2-w1,square,quảng trường,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r05-c3-w1,straight,thẳng,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r06-c1-w1,supermarket,siêu thị,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r06-c2-w1,swimming pool,hồ bơi,places; sport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p09-t1-r06-c3-w1,next to,bên cạnh,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r06-c3-w2,by,bên cạnh,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r07-c1-w1,through,xuyên qua,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t1-r07-c2-w1,airport,sân bay,places,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p09-t1-r07-c3-w1,bank,ngân hàng,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r08-c1-w1,bridge,cây cầu,places,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p09-t1-r08-c2-w1,castle,lâu đài,places,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p09-t1-r08-c3-w1,club,câu lạc bộ,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r09-c1-w1,college,trường cao đẳng,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r09-c1-w2,university,đại học,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r09-c2-w1,corner,góc (đường),places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r09-c3-w1,east,phía đông,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t1-r09-c3-w2,west,phía tây,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t1-r10-c1-w1,north,phía bắc,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t1-r10-c1-w2,south,phía nam,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t1-r10-c2-w1,factory,nhà máy,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r10-c3-w1,fire station,trạm cứu hỏa,places,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p09-t1-r11-c1-w1,front,phía trước,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r11-c1-w2,back,phía sau,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r11-c2-w1,hotel,khách sạn,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r11-c3-w1,kilometre,km,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r11-c3-w2,kilometer,km,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r12-c1-w1,left,bên trái,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r12-c1-w2,right,bên phải,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r12-c2-w1,museum,viện bảo tàng,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r12-c3-w1,path,"lối đi, đường mòn",places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r13-c1-w1,middle,ở giữa,places,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t1-r13-c2-w1,police station,đồn cảnh sát,places,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p09-t1-r13-c3-w1,post office,bưu điện,places,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t1-r14-c1-w1,restaurant,nhà hàng,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r14-c2-w1,skyscraper,"tòa nhà cao tầng, tòa nhà chọc trời",places,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p09-t1-r14-c3-w1,stadium,sân vận động,places,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p09-t1-r15-c1-w1,theatre,rạp hát,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r15-c1-w2,theater,rạp hát,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r15-c2-w2,exit,lối ra,places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t1-r15-c3-w1,way,"lối đi, đường đi",places,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t2-r02-c1-w1,alphabet,bảng chữ cái,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t2-r02-c2-w1,ask,hỏi,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t2-r02-c2-w2,answer,trả lời,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t2-r02-c3-w1,board,bảng,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p09-t2-r03-c1-w1,book,sách,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p09-t2-r03-c2-w1,class,lớp học,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t2-r03-c2-w2,classroom,lớp học,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t2-r03-c3-w1,open,mở,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t2-r03-c3-w2,close,đóng,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p09-t2-r04-c1-w1,colour,màu,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t2-r04-c1-w2,color,màu,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t2-r04-c2-w1,correct,đúng,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t2-r04-c2-w2,right,đúng,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t2-r04-c3-w1,crayon,bút sáp màu,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p09-t2-r05-c1-w1,cross,"gạch chéo, dấu chéo (X)",school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p09-t2-r05-c2-w1,cupboard,tủ có nhiều ngăn,school,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p09-t2-r05-c3-w1,draw,vẽ,school,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p10-t1-r01-c1-w1,English,môn Tiếng Anh,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r01-c2-w1,eraser,"cục gôm, cục tẩy",school,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p10-t1-r01-c2-w2,rubber,"cục gôm, cục tẩy",school,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p10-t1-r01-c3-w1,find,"tìm, kiếm",school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r02-c1-w1,keyboard,bàn phím máy tính,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p10-t1-r02-c2-w1,study,học,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r02-c3-w1,lesson,bài học,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r03-c1-w1,letter,chữ cái,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r03-c2-w1,line,"đường thẳng, đường kẻ",school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r03-c3-w1,listen,lắng nghe,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r04-c1-w1,look,nhìn,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r04-c2-w1,mouse,chuột máy tính,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p10-t1-r04-c3-w1,music,âm nhạc,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r05-c1-w1,number,số,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r05-c2-w1,page,"trang sách, trang tập",school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r05-c3-w1,painting,bức tranh,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r05-c3-w2,picture,bức tranh,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r06-c2-w1,part,phần,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r06-c3-w1,pen,bút mực,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p10-t1-r06-c3-w2,pencil,bút chì,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p10-t1-r07-c1-w1,poster,"áp phích, quảng cáo",school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r07-c2-w1,question,câu hỏi,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r07-c3-w1,read,đọc,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r08-c1-w1,ruler,thước,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p10-t1-r08-c2-w1,school,trường học,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r08-c3-w1,sentence,câu,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r09-c1-w1,sit,ngồi,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r09-c1-w2,stand,đứng,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r09-c2-w1,spell,đánh vần,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r09-c3-w1,story,câu chuyện,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r10-c2-w1,tell,kể,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r10-c3-w1,tick,đánh dấu (√),school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r11-c1-w1,understand,hiểu,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r11-c2-w1,word,từ,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r11-c3-w1,write,viết,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r12-c1-w1,break,"giờ ra chơi, giờ giải lao",school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r12-c2-w1,homework,bài tập về nhà,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r12-c3-w1,mistake,lỗi,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r13-c1-w1,song,bài hát,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r13-c2-w1,teach,dạy,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r13-c3-w1,text,bài văn,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r14-c1-w1,website,trang web,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r14-c2-w1,Art,môn Mỹ Thuật,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r14-c3-w1,rucksack,cái ba lô,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p10-t1-r14-c3-w2,backpack,cái ba lô,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p10-t1-r15-c1-w1,bin,thùng rác,school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r15-c2-w1,competition,"cuộc thi đấu, cuộc tranh tài",school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r15-c2-w2,race,"cuộc thi đấu, cuộc tranh tài",school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r15-c3-w1,dictionary,tự điển,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r16-c1-w1,flag,lá cờ,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p10-t1-r16-c2-w1,Geography,môn Địa Lý,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r16-c3-w1,glue,"keo, hồ",school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r17-c1-w1,group,"đội, nhóm",school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r17-c1-w2,team,"đội, nhóm",school,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t1-r17-c2-w1,gym,phòng tập,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r17-c3-w1,History,môn Lịch Sử,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r18-c1-w1,language,ngôn ngữ,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r18-c2-w1,Math,môn Toán,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r18-c2-w2,Maths,môn Toán,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r18-c3-w1,Science,môn Khoa Học,school,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p10-t1-r19-c1-w1,online,"lên mạng, trực tuyến",school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r19-c2-w1,project,"dự án, bài thuyết trình",school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r19-c3-w1,scissors,cây kéo,school,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p10-t1-r20-c1-w1,student,học sinh,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r20-c1-w2,pupil,học sinh,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r20-c2-w1,subject,môn học,school,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p10-t1-r20-c3-w1,timetable,thời khóa biểu,school,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p10-t2-r02-c1-w1,badminton,cầu lông,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t2-r02-c2-w1,baseball,bóng chày,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p10-t2-r02-c3-w1,basketball,bóng rổ,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r01-c1-w1,bat,gậy (chơi bóng chày),sport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p11-t1-r01-c2-w1,bounce,tâng (bóng),sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r02-c1-w1,catch,chụp,sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p11-t1-r02-c2-w1,drive,lái xe,sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p11-t1-r02-c3-w1,enjoy,thích,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r02-c3-w2,like,thích,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r03-c1-w1,fishing,câu cá,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r03-c2-w1,fly,bay,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r03-c3-w1,football,bóng đá,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r03-c3-w2,soccer,bóng đá,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r04-c1-w1,game,trò chơi,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r04-c2-w1,guitar,đàn ghi-ta,sport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p11-t1-r04-c3-w1,hobby,sở thích,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r05-c1-w1,hockey,khúc côn cầu,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r05-c2-w1,jump,nhảy,sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p11-t1-r05-c3-w1,kick,đá,sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p11-t1-r06-c1-w1,kite,con diều,sport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p11-t1-r06-c2-w1,piano,đàn pi-a-nô,sport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p11-t1-r06-c3-w1,play,chơi,sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p11-t1-r07-c1-w1,ride,chạy xe đạp,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r07-c1-w2,ride a bike,chạy xe đạp,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r07-c2-w1,run,chạy,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r07-c3-w1,sing,hát,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r08-c1-w1,skateboard,trượt ván,sport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p11-t1-r08-c2-w1,sport,môn thể thao,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r08-c3-w1,story,truyện,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r09-c1-w1,swim,bơi,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r09-c2-w1,table tennis,bóng bàn,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r09-c3-w1,take a photo,chụp hình,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r09-c3-w2,take a picture,chụp hình,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r10-c1-w1,tennis,quần vợt,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r10-c2-w1,racket,vợt (chơi quần vợt),sport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p11-t1-r10-c3-w1,throw,"ném, quăng",sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r11-c1-w1,toy,đồ chơi,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r11-c2-w1,walk,đi bộ,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r11-c3-w1,watch,xem ti-vi,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r11-c3-w2,watch TV,xem ti-vi,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r12-c1-w1,band,ban nhạc,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r12-c2-w1,CD,cái CD,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r13-c1-w1,comic,truyện tranh,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r13-c1-w2,comic book,truyện tranh,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r13-c2-w1,dance,"nhảy, múa",sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r13-c3-w1,DVD,cái DVD,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r14-c1-w1,email,thư điện tử,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r14-c2-w1,film,phim,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r14-c2-w2,movie,phim,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r14-c3-w1,go shopping,đi mua sắm,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r15-c1-w1,goal,khung thành,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r15-c2-w1,holiday,kỳ nghỉ,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r15-c3-w1,hop,nhảy lò cò,sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p11-t1-r16-c1-w1,ice-skate,trượt băng,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r16-c2-w1,net,cái lưới,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r16-c3-w1,party,buổi tiệc,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r17-c1-w1,player,người chơi (thể thao),sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r17-c2-w1,pool,hồ bơi,sport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p11-t1-r17-c3-w1,practice,luyện tập,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r17-c3-w2,practise,luyện tập,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r18-c1-w1,present,món quà,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r18-c2-w1,roller-skate,trượt pa-tin,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r18-c3-w1,sail,chèo thuyền buồm,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r19-c1-w1,score,"ghi điểm, điểm số",sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p11-t1-r19-c2-w1,skip,nhảy dây,sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p11-t1-r20-c1-w1,video,băng video,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r20-c2-w1,listen to music,nghe nhạc,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p11-t1-r20-c3-w1,cartoon,phim hoạt hình,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r21-c1-w1,channel,kênh (ti vi),sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r21-c2-w1,chess,cờ,sport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p11-t1-r21-c3-w1,collect,"thu thập, sưu tầm",sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p11-t1-r22-c1-w1,concert,buổi hòa nhạc,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p11-t1-r22-c3-w1,drum,trống,sport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p12-t1-r01-c1-w1,festival,lễ hội,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r01-c2-w1,golf,môn golf,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p12-t1-r01-c4-w1,instrument,nhạc cụ,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r02-c1-w1,invitation,"thiệp mời, lời mời",sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r02-c3-w1,join,tham gia (câu lạc bộ),sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r02-c3-w2,join a club,tham gia (câu lạc bộ),sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r02-c5-w1,magazine,tạp chí,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r03-c1-w1,match,trận đấu,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r03-c3-w1,meet,gặp gỡ,sport,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p12-t1-r03-c5-w1,member,thành viên,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r04-c1-w1,pop music,nhạc pop,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r04-c3-w1,prize,giải thưởng,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p12-t1-r04-c5-w1,program,chương trình,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r04-c5-w2,programme,chương trình,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r05-c1-w1,puzzle,trò chơi ghép hình,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p12-t1-r05-c3-w1,quiz,câu đố,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r05-c5-w1,rock music,nhạc rock,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r06-c1-w1,ski,trượt tuyết (bằng gậy),sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p12-t1-r06-c3-w1,sledge,xe trượt tuyết,sport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p12-t1-r06-c5-w1,snowball,banh tuyết,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r07-c1-w1,snowboard,ván trượt tuyết,sport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p12-t1-r07-c3-w1,snowman,người tuyết,sport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p12-t1-r07-c5-w1,stage,sân khấu,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r08-c1-w1,tent,cái lều,sport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p12-t1-r08-c3-w1,tune,giai điệu,sport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t1-r08-c5-w1,violin,đàn vĩ cầm,sport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p12-t1-r09-c1-w1,volleyball,bóng chuyền,sport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p12-t1-r09-c3-w1,winner,"người chiến thắng, người thắng cuộc",sport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p12-t2-r02-c1-w1,Monday,thứ Hai,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r02-c2-w1,Tuesday,thứ Ba,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r02-c3-w1,Wednesday,thứ Tư,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r03-c1-w1,Thursday,thứ Năm,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r03-c2-w1,Friday,thứ Sáu,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r03-c3-w1,Saturday,thứ Bảy,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r04-c1-w1,Sunday,Chủ Nhật,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r04-c2-w1,January,tháng Một,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r04-c3-w1,February,tháng Hai,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r05-c1-w1,March,tháng Ba,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r05-c2-w1,April,tháng Tư,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r05-c3-w1,May,tháng Năm,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r06-c1-w1,June,tháng Sáu,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r06-c2-w1,July,tháng Bảy,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r06-c3-w1,August,tháng Tám,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r07-c1-w1,September,tháng Chín,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r07-c2-w1,October,tháng Mười,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r07-c3-w1,November,tháng Mười Một,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r08-c1-w1,December,tháng Mười Hai,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r08-c2-w1,spring,mùa xuân,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p12-t2-r08-c3-w1,summer,mùa hè,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p12-t2-r09-c1-w1,autumn,mùa thu,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p12-t2-r09-c1-w2,fall,mùa thu,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p12-t2-r09-c2-w1,winter,mùa đông,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p12-t2-r09-c3-w1,calendar,lịch,time,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p12-t2-r10-c1-w1,century,thế kỷ,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r10-c2-w1,afternoon,buổi chiều,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p12-t2-r10-c3-w1,birthday,ngày sinh nhật,time,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p12-t2-r11-c1-w1,day,ngày,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p12-t2-r11-c2-w1,evening,buổi tối,time,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p12-t2-r11-c3-w1,morning,buổi sáng,time,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p12-t2-r12-c1-w1,night,ban đêm,time,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p12-t2-r12-c2-w1,today,hôm nay,time,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p12-t2-r12-c3-w1,year,năm,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r01-c1-w1,after,sau,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t1-r01-c2-w1,always,luôn luôn,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r01-c3-w1,before,trước,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t1-r02-c1-w1,every,mỗi (ngày),time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t1-r02-c1-w2,every day,mỗi (ngày),time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r02-c2-w1,never,không bao giờ,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r02-c3-w1,sometimes,thỉnh thoảng,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r03-c1-w1,usually,thường,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r03-c2-w1,week,tuần,time,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p13-t1-r03-c3-w1,month,tháng,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t1-r04-c1-w1,weekend,cuối tuần,time,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p13-t1-r04-c2-w1,yesterday,hôm qua,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t1-r04-c3-w1,tomorrow,ngày mai,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t1-r05-c1-w1,early,sớm,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r05-c1-w2,late,trễ,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r05-c2-w1,end,"kết thúc, cuối cùng",time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r05-c3-w1,future,tương lai,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t1-r06-c1-w1,hour,tiếng (đồng hồ),time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t1-r06-c2-w1,minute,phút,time,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t1-r06-c3-w1,second,giây,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r07-c1-w1,midday,giữa trưa,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r07-c2-w1,midnight,nửa đêm,time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t1-r07-c3-w1,quarter,"15 phút (theo giờ đồng hồ), 3 tháng (theo năm)",time,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t2-r02-c1-w1,alien,người ngoài hành tinh,toys,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t2-r02-c2-w1,ball,"trái banh, quả bóng",toys,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p13-t2-r02-c3-w1,balloon,bong bóng,toys,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t2-r03-c1-w1,board game,"cờ bàn (như cờ cá ngựa, cờ tỷ phú)",toys,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p13-t2-r03-c2-w1,doll,búp bê,toys,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p13-t2-r03-c3-w1,monster,con quái vật,toys,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p13-t2-r04-c1-w1,robot,con rô-bốt,toys,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t2-r04-c2-w1,teddy bear,gấu bông,toys,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t2-r04-c3-w1,computer game,trò chơi vi tính,toys,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p13-t2-r05-c1-w1,model,mô hình,toys,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t2-r05-c2-w1,tablet,máy tính bảng,toys,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p13-t3-r02-c1-w1,bike,xe đạp,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r02-c1-w2,bicycle,xe đạp,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r02-c2-w1,boat,thuyền,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r02-c3-w1,bus,xe buýt,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r03-c1-w1,car,xe hơi,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r03-c2-w1,helicopter,trực thăng,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r03-c3-w1,lorry,xe tải,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r03-c3-w2,truck,xe tải,transport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p13-t3-r04-c1-w1,plane,máy bay,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r04-c2-w1,ship,tàu,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r04-c3-w1,motorbike,xe gắn máy,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r05-c1-w1,train,"xe lửa, tàu hỏa",transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r05-c2-w1,taxi,xe taxi,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r05-c3-w1,rocket,tên lửa,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r06-c1-w1,spaceship,tàu vũ trụ,transport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p13-t3-r06-c2-w1,fire engine,xe chữa cháy,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r06-c2-w2,fire truck,xe chữa cháy,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r06-c3-w1,ambulance,xe cứu thương,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r07-c1-w1,tractor,máy cày,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p13-t3-r07-c2-w1,trip,chuyến đi,transport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t3-r07-c2-w2,journey,chuyến đi,transport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t3-r07-c3-w1,ticket,vé,transport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p13-t3-r08-c1-w1,tire,"lốp, vỏ xe",transport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p13-t3-r08-c1-w2,tyre,"lốp, vỏ xe",transport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p13-t3-r08-c2-w1,lift,đi quá giang,transport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p13-t3-r08-c3-w1,motorway,"đường cao tốc, xa lộ",transport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t1-r01-c1-w1,passenger,"hành khách (trên tàu, xe)",transport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t1-r01-c2-w1,platform,"thềm sân ga, bậc lên xuống xe buýt",transport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t1-r01-c3-w1,railway,"đường sắt, xe lửa",transport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t1-r01-c3-w2,railroad,"đường sắt, xe lửa",transport,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t1-r02-c1-w1,tour,"cuộc đi chơi, du lịch",transport,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t1-r02-c2-w1,traffic,giao thông,transport,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p14-t1-r02-c3-w1,wheel,bánh xe,transport,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p14-t2-r02-c1-w1,cloud,đám mây,weather,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p14-t2-r02-c2-w1,cloudy,trời có mây,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r02-c3-w1,ice,băng,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r03-c1-w1,rain,mưa,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r03-c2-w1,rainy,(có) mưa,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r03-c3-w1,rainbow,cầu vồng,weather,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p14-t2-r04-c1-w1,sky,bầu trời,weather; world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t2-r04-c2-w1,snow,tuyết,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r04-c3-w1,snowy,"(có) nhiều tuyết, phủ tuyết…",weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r05-c1-w1,sun,mặt trời,weather; world,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p14-t2-r05-c2-w1,sunny,"nắng, có nhiều ánh nắng",weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r05-c3-w1,weather,thời tiết,weather,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t2-r06-c1-w1,wind,gió,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r06-c2-w1,windy,(có) gió,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r06-c3-w1,fog,sương mù,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r07-c1-w1,foggy,(có) sương mù,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r07-c2-w1,storm,bão,weather,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t2-r07-c3-w1,thunder,sấm,weather,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t2-r08-c1-w1,lightning,chớp,weather,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p14-t3-r02-c1-w1,beach,bãi biển,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r02-c2-w1,sand,cát,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t3-r02-c3-w1,sea,biển,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r03-c1-w1,shell,"vỏ (sò, ốc)",world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r03-c3-w1,Earth,Trái đất,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r04-c1-w1,field,cánh đồng,world,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p14-t3-r04-c2-w1,forest,khu rừng,world,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p14-t3-r04-c2-w2,jungle,khu rừng,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t3-r04-c3-w1,grass,cỏ,world,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p14-t3-r05-c1-w1,ground,mặt đất,world,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p14-t3-r05-c2-w1,island,hòn đảo,world,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p14-t3-r05-c3-w1,lake,cái hồ,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t3-r06-c1-w1,leaf,một lá cây,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r06-c1-w2,leaves,nhiều lá cây,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r06-c2-w1,Moon,mặt trăng,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r06-c3-w1,mountain,núi,world,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p14-t3-r07-c1-w1,plant,cây nhỏ,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r07-c2-w1,river,dòng sông,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t3-r07-c3-w1,rock,đá,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r08-c2-w1,star,ngôi sao,world,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p14-t3-r08-c3-w1,village,ngôi làng,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p14-t3-r09-c1-w1,waterfall,thác nước,world,needs_manual_review,Material Design Icons,Preview actual picture before approval.
+p14-t3-r09-c2-w1,wave,sóng (biển),world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p14-t3-r09-c3-w1,world,thế giới,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p15-t1-r01-c1-w1,air,không khí,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p15-t1-r01-c2-w1,environment,môi trường,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p15-t1-r01-c3-w1,fire,lửa,world,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p15-t1-r02-c1-w1,hill,ngọn đồi,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p15-t1-r02-c2-w1,land,đất liền,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p15-t1-r02-c3-w1,ocean,đại dương,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p15-t1-r03-c1-w1,planet,hành tinh,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p15-t1-r03-c2-w1,pond,cái ao,world,needs_manual_review,Mulberry Symbols,Preview actual picture before approval.
+p15-t1-r03-c3-w1,space,không gian,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p15-t1-r04-c1-w1,stone,đá,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p15-t1-r04-c2-w1,stream,dòng suối,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p15-t1-r04-c3-w1,view,tầm nhìn,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p15-t1-r05-c1-w1,wood,gỗ,world,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p15-t1-r05-c2-w1,pyramid,kim tự tháp,world,needs_manual_review,OpenMoji,Preview actual picture before approval.
+p15-t1-r05-c3-w1,desert,sa mạc,world,approved,OpenMoji,Preserved user-approved OpenMoji mapping.
+p15-t1-r06-c1-w1,countryside,miền quê,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p15-t1-r06-c2-w1,cave,hang động,world,missing,,No exact candidate selected; a contextual scene or further source research is needed.
+p15-t2-r02-c1-w1,Alex,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r02-c2-w1,Alice,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r02-c3-w1,Ann,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r03-c1-w1,Anna,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r03-c2-w1,Ben,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r03-c3-w1,Bill,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r04-c1-w1,Dan,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r04-c2-w1,Eva,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r04-c3-w1,Grace,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r05-c1-w1,Hugo,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r05-c2-w1,Jill,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r05-c3-w1,Kim,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r06-c1-w1,Lucy,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r06-c2-w1,Mark,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r06-c3-w1,Matt,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r07-c1-w1,May,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r07-c2-w1,Nick,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r07-c3-w1,Pat,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r08-c1-w1,Sam,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r08-c2-w1,Sue,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r08-c3-w1,Tom,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r09-c1-w1,Charlie,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r09-c2-w1,Clare,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r09-c3-w1,Daisy,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r10-c1-w1,Fred,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r10-c2-w1,Jack,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r10-c3-w1,Jane,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r11-c1-w1,Jim,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r11-c2-w1,Julia,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r11-c3-w1,Lily,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r12-c1-w1,Mary,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r12-c2-w1,Paul,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r12-c3-w1,Peter,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r13-c1-w1,Sally,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r13-c2-w1,Vicky,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p15-t2-r13-c3-w1,Zoe,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r01-c1-w1,Betty,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r01-c2-w1,David,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r01-c3-w1,Emma,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r02-c1-w1,Frank,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r02-c2-w1,George,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r02-c3-w1,Harry,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r03-c1-w1,Helen,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r03-c2-w1,Holly,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r03-c3-w1,Katy,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r04-c1-w1,Michael,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r04-c2-w1,Oliver,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r04-c3-w1,Richard,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r05-c1-w1,Robert,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r05-c2-w1,Sarah,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r05-c3-w1,Sophia,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."
+p16-t1-r06-c1-w1,William,[Proper name; no Vietnamese definition in source],names,not_applicable,,"Proper name: listening dictation, not a pictorial definition."

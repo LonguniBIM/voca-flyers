@@ -20,6 +20,8 @@ jobs:
           persist-credentials: false
       - name: Verify cached-file version and image policy
         run: |
+          python scripts/sync-catalog.py --check
+          python scripts/build-coverage.py --check
           python scripts/build-offline.py --check
           node --test tests/illustrations.test.cjs
       - name: Install isolated browser-test dependencies

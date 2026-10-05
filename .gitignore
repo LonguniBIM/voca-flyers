@@ -12,3 +12,6 @@ skill.zip
 node_modules/
 .DS_Store
 Thumbs.db
+
+# Public content coverage, never learner history.
+!data/image-coverage.csv
