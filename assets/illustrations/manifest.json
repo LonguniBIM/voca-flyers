@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "candidates": {
+    "p03-t1-r19-c2-w1": {
+      "word": "toothpaste",
+      "meaning_vi": "kem đánh răng",
+      "provider": "Streamline",
+      "asset_id": "personal-hygiene-clean-toothpaste",
+      "url": "./assets/illustrations/toothpaste-e42fdf46dc5e.svg",
+      "sha256": "e42fdf46dc5e191b49c48a300eb5ec9d9c5d1314e1271aaece9597e5c01e58e0",
+      "creator": "Streamline",
+      "license": "CC-BY-4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "source_url": "https://github.com/webalys-hq/streamline-vectors/blob/52d750c9ce051e51cb181b7a78932120c48541d0/covid/personal-hygiene/personal-hygiene/personal-hygiene-clean-toothpaste.svg",
+      "download_url": "https://raw.githubusercontent.com/webalys-hq/streamline-vectors/52d750c9ce051e51cb181b7a78932120c48541d0/covid/personal-hygiene/personal-hygiene/personal-hygiene-clean-toothpaste.svg",
+      "review_status": "needs_manual_review",
+      "technical_status": "downloaded_and_hash_verified",
+      "visual_description": "A toothpaste tube next to a toothbrush.",
+      "alt": "A toothpaste tube next to a toothbrush.",
+      "modifications": "None; original upstream SVG copied unchanged."
+    },
+    "p03-t1-r06-c1-w1": {
+      "word": "cupboard",
+      "meaning_vi": "tủ đựng đồ",
+      "provider": "Material Design Icons",
+      "asset_id": "cupboard-outline",
+      "url": "./assets/illustrations/cupboard-91ff81b87098.svg",
+      "sha256": "91ff81b87098f69f4858a1d8f13013d807fd2843053cb61da152d740905e732f",
+      "creator": "Pictogrammers contributors",
+      "license": "Apache-2.0",
+      "license_url": "https://www.apache.org/licenses/LICENSE-2.0",
+      "source_url": "https://github.com/Templarian/MaterialDesign-SVG/blob/9e04201d4557e729822fb57f62a316c3dea1d4a8/svg/cupboard-outline.svg",
+      "download_url": "https://raw.githubusercontent.com/Templarian/MaterialDesign-SVG/9e04201d4557e729822fb57f62a316c3dea1d4a8/svg/cupboard-outline.svg",
+      "review_status": "needs_manual_review",
+      "technical_status": "downloaded_and_hash_verified",
+      "visual_description": "A cupboard with two upper shelves and two lower doors.",
+      "alt": "A cupboard with two upper shelves and two lower doors.",
+      "modifications": "None; original upstream SVG copied unchanged."
+    }
+  },
+  "rejected": {
+    "p03-t1-r19-c2-w1": {
+      "provider": "ARASAAC",
+      "pictogram_id": 4197,
+      "word": "toothpaste",
+      "review_status": "rejected",
+      "reason": "Image unavailable"
+    },
+    "p03-t1-r06-c1-w1": {
+      "provider": "ARASAAC",
+      "pictogram_id": 37149,
+      "word": "cupboard",
+      "review_status": "rejected",
+      "reason": "Wrong meaning: botanical diagram"
+    }
+  },
+  "policy": "Approved OpenMoji first. Explicit word/sense mappings only, no runtime search. New local images require individual approval on this device. Pictogrammers MDI and Streamline are curated exceptions, not Google Material Symbols. ARASAAC is manual-review only; the two former references are rejected."
+}

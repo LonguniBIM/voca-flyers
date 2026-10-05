@@ -70,7 +70,7 @@ Open the published HTTPS URL in a normal browser. Do not use an Incognito/privat
 
 Start a two-word session, enter some letters, select Save & pause, reopen the SAME browser/app context, and Resume. Check the selected words, letter state, and history. A successful page deployment is not a substitute for this test.
 
-In Library & source, use Save pictures for offline. Confirm the successful file count before relying on offline pictures. Pictures are NOT bundled in this release. English speech still depends on the device/browser voices and needs its own offline test.
+In Library & source, use Save pictures for offline. Confirm the successful file count before relying on offline pictures. Two replacement SVGs are bundled; approved OpenMoji pictures need the separate save operation. English speech still depends on the device/browser voices and needs its own offline test.
 
 ## 5. Install on a mobile device
 

@@ -1,0 +1,33 @@
+{
+  "passed": 27,
+  "checks": [
+    "native service worker installs all 12 scoped files",
+    "fresh profile has no fake learning history",
+    "two local replacements, not ARASAAC",
+    "legacy global opt-in removed",
+    "approval disabled before image decode",
+    "bundled SVG actually decodes",
+    "approval disabled before image decode",
+    "bundled SVG actually decodes",
+    "preview does not create history",
+    "concurrent approvals persist without lost update",
+    "approval writes preferences only",
+    "approval survives native reload",
+    "read-only tab cannot change reviews",
+    "partial session survives pause reload resume",
+    "no illustration answer leak",
+    "approved accurate source appears after correct answer",
+    "first-correct counted once",
+    "app and both images reopen offline from real CacheStorage",
+    "review and rejection do not change session count",
+    "zero ARASAAC requests despite stale opt-in",
+    "no uncaught browser errors",
+    "history survives closing and reopening browser",
+    "review persists across browser processes",
+    "no horizontal overflow on 390px phone layout",
+    "both previews work with touch input",
+    "failed image cannot be approved",
+    "failed preview creates no session"
+  ],
+  "limits": "Desktop Chromium with isolated profiles. Physical iOS/Android installation and actual audible speech require device testing."
+}

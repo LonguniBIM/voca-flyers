@@ -1,5 +1,5 @@
 {
-  "version": "9cbf9edffcaeb66b",
+  "version": "a11a1b4226ae82d0",
   "offline_shell_files": [
     "index.html",
     "Rise_Voca_Flyers.html",
@@ -7,16 +7,24 @@
     "pwa-5a5460da10.js",
     "icons/icon-192.png",
     "icons/icon-512.png",
-    "icons/apple-touch-icon.png"
+    "icons/apple-touch-icon.png",
+    "assets/illustrations/toothpaste-e42fdf46dc5e.svg",
+    "assets/illustrations/cupboard-91ff81b87098.svg",
+    "THIRD_PARTY.md",
+    "assets/licenses/Apache-2.0.txt",
+    "assets/licenses/Pictogrammers-LICENSE.txt"
   ],
   "bundled_vocabulary": true,
-  "bundled_picture_files": 0,
-  "pictures": "Explicit browser download to a separate cache. Success must be checked on the device.",
+  "bundled_picture_files": 2,
+  "pictures": "Two local review SVGs cached with app. Original approved OpenMoji images use separate explicit download.",
   "audio": "Device speech synthesis; offline audio is not guaranteed.",
   "cloud_sync": false,
   "review": {
     "keep": 170,
     "held_back": 2,
-    "arasaac_candidates": 2
-  }
+    "local_candidates": 2,
+    "arasaac_candidates": 0,
+    "rejected_arasaac": 2
+  },
+  "release": "illustrations-v2"
 }
