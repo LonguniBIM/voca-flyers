@@ -3,7 +3,7 @@
 An offline-capable, topic-based English word builder for phones, tablets, and computers. The source vocabulary, clues, original topic membership, stable IDs, first-correct scoring, and local history schema are preserved.
 
 ## Learn and resume
-Choose topics and 5 / 10 / 15 / 20 / All, or a custom count. Listen, arrange letters, retry, use Hint or Skip. A new session avoids duplicate spellings. Save & pause and Resume keep the original session settings and progress. Pictures appear after the first correct answer, not as answer leaks.
+Choose topics and 5 / 10 / 15 / 20 / All, or a custom count. Listen, arrange letters, retry, use Hint or Skip. Correct answers are spoken automatically. Skip reveals the answer and waits for **Next word** while remaining recorded as skipped, not solved. A new session avoids duplicate spellings. Save & pause and Resume keep the original session settings and progress. Pictures appear only after a correct response or an explicit Skip, never as answer leaks.
 
 ## Illustration expansion
 Open **Library & source > Review replacement illustrations**. Filter by Topic, Source, Review status, and word or Vietnamese meaning. The gallery uses 24-card pages. Select **Preview local picture**, then **Approve for lessons** or **Reject / stop using**. Image-loading failures disable approval. Review does not create sessions, attempts, or mastery.

@@ -29,8 +29,11 @@ jobs:
           python -m venv "$RUNNER_TEMP/flyers-venv"
           "$RUNNER_TEMP/flyers-venv/bin/pip" install playwright==1.55.0
           "$RUNNER_TEMP/flyers-venv/bin/python" -m playwright install --with-deps chromium
-      - name: Check real offline storage, approval, touch and history
+      - name: Check learning flow, offline storage, approval, touch and history
         run: |
+          "$RUNNER_TEMP/flyers-venv/bin/python" tests/browser_learning_flow.py --report "$RUNNER_TEMP/flyers-learning-flow.json"
           "$RUNNER_TEMP/flyers-venv/bin/python" tests/browser_illustrations.py --report "$RUNNER_TEMP/flyers-browser.json"
+          echo '## Learning-flow checks' >> "$GITHUB_STEP_SUMMARY"
+          cat "$RUNNER_TEMP/flyers-learning-flow.json" >> "$GITHUB_STEP_SUMMARY"
           echo '## Native browser checks' >> "$GITHUB_STEP_SUMMARY"
           cat "$RUNNER_TEMP/flyers-browser.json" >> "$GITHUB_STEP_SUMMARY"
